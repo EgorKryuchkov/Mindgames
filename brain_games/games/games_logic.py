@@ -26,4 +26,3 @@ def play_game(answer, correct_answer):
         points = 4
     if points == 3:
         print(f'Congratulations, {name}!')
-
