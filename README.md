@@ -3,8 +3,13 @@ This is study project which includes some easy exercizes for your brain.
 
 [![Code Climate](https://codeclimate.com/github/EgorKryuchkov/Mindgames.png)](https://codeclimate.com/github/EgorKryuchkov/Mindgames)
 
+## Games
+1) brain-even - you must answer if number is even or not.
+2) brain-calc - you must calculate simple math expressions.
+3) brain-gcd - you must find great common divisor of two numbers.
+
 ## Presentation of games:
  
 1) brain-even: https://asciinema.org/a/J69DXKdH7KWiuA65nMfPurAQR
 2) brain-calc: https://asciinema.org/a/AYeXTx33nSgacECsL3VWphlfu
-
+3) brain-gcd: https://asciinema.org/a/AqLjur4MxcK9obA8wyHEyuiDx
