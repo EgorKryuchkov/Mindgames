@@ -22,3 +22,4 @@ In each game you must get 3 points to win (1 for each right answer). If you fail
 3) brain-gcd: https://asciinema.org/a/AqLjur4MxcK9obA8wyHEyuiDx
 4) brain-progression: https://asciinema.org/a/Z8jFyQoJiL9a4TSp746joNdsP
 5) brain-prime: https://asciinema.org/a/593605
+KAKA
